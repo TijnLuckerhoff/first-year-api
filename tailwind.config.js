@@ -2,7 +2,7 @@
 module.exports = {
   content: [
     // Example content paths...
-    './index.php',
+    './index.html',
   ],
   theme: {
     extend: {},
